@@ -2,6 +2,6 @@
 
 <h3>Fav tech stack</h3>
 
-- NestJS + TypeORM on Postgres
+- Koa + TypeORM
 
 - Next.js + TailwindCSS / Sass
