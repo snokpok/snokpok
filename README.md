@@ -1,4 +1,4 @@
-<h2>Hi, I’m @snokpok; a full-stack web developer</h2>
+<h2>Hi, I’m @snokpok; a developer specializing in web development and machine learning</h2>
 
 <h3>Fav tech stack</h3>
 
