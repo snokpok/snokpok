@@ -3,7 +3,11 @@
 <h3>Fav tech stack</h3>
 
 **Experienced in**: Node, Python, SQL
+
 **Familiar with**: C++, MongoDB
+
 **Backend**: Node on Typescript, PostgreSQL, Redis, Dgraph, integrated with Docker & K8s + CircleCI
+
 **Frontend**: NextJS, Sass
+
 **Mobile**: React Native
