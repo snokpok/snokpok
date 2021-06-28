@@ -1,7 +1,9 @@
-<h2>Hi, I’m @snokpok; a developer specializing in web development and machine learning</h2>
+<h2>Hi, I’m Vincent; a developer who specializes in building applications that scales to the moon 🚀</h2>
 
 <h3>Fav tech stack</h3>
 
-- Koa + TypeORM
-
-- Next.js + TailwindCSS / Sass
+**Experienced in**: Node, Python, SQL
+**Familiar with**: C++, MongoDB
+**Backend**: Node on Typescript, PostgreSQL, Redis, Dgraph, integrated with Docker & K8s + CircleCI
+**Frontend**: NextJS, Sass
+**Mobile**: React Native
