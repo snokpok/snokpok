@@ -1,4 +1,8 @@
-<h2 align="center">Hi! I'm Vincent. I love building exciting, impactful and scalable products</h2>
+<p align="center"><img src="https://vuvincent.com/images/nft2.png"></p>
+
+<h2 align="center">Hi!</h2>
+<h3 align="center">I'm Vincent.</h3>
+<h4 align="center">I love building exciting, impactful and scalable products</h4>
 
 ### What I'm up to:
 
@@ -6,7 +10,7 @@
 - Engineering Lead of [HackSC](http://hacksc.com) -- Southern California's flagship hackathon
 - Undergraduate Researcher at the [ICAROS](http://icaros.usc.edu) lab, where I contribute mostly to [pyribs](http://pyribs.org)
 
-### Things I love:
+### Things I'm interested in:
 
 - __Music__; mostly lo-fi and jazz but sometimes I might feel like listening to emo rocks or something like that instead
 - __Linux__; I currently dual-boot between Window 11 and Debian 11 w/ suckless's DWM as the windows manager
