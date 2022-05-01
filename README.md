@@ -1,7 +1,7 @@
 <p align="center"><img src="https://vuvincent.com/images/nft2.png"></p>
 
-<h2 align="center">Hi!</h2>
-<h3 align="center">I'm Vincent.</h3>
+<h1 align="center">🧑‍💻</h1>
+
 <h4 align="center">I love building exciting, impactful and scalable products</h4>
 
 ### What I'm up to:
