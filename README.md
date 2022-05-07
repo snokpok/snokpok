@@ -8,7 +8,7 @@
 
 - Software Engineering Intern at [Coursera](http://coursera.org) (Summer'22)
 - Engineering Lead of [HackSC](http://hacksc.com) -- Southern California's flagship hackathon
-- Undergraduate Researcher at the [ICAROS](http://icaros.usc.edu) lab, where I contribute mostly to [pyribs](http://pyribs.org)
+- Undergraduate Research Assistant at the [ICAROS](http://icaros.usc.edu) lab, where I contribute mostly to [pyribs](http://pyribs.org)
 
 ### Things I'm interested in:
 
