@@ -12,7 +12,7 @@
 
 ### Things I'm interested in:
 
-- 🎷 __Music__: mostly lo-fi and jazz but sometimes I might feel like listening to emo rocks or something like that instead
+- 🎷 __Music__: mostly lo-fi and jazz but sometimes I might feel like listening to emo rock or something like that instead
 - 👾 __Linux__: I currently dual-boot between Window 11 and Debian 11 w/ suckless's DWM as the windows manager
 - 😺 __Cats__: I don't often like Instagram posts, but when I do, those likes are for cat videos **only**.
 - 🕹 __Gaming__: I have an avid childhood gaming away on my dad's Windows 7 PC playing cringy-ass Flash games that have now unfortunately fell out of support; I mostly play Valorant nowadays 
