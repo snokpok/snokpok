@@ -1,4 +1,4 @@
-<p align="center"><img src="https://vuvincent.com/images/nft2.png"></p>
+<p align="center"><img src="me-nft.png"></p>
 
 <h1 align="center">🧑‍💻</h1>
 
