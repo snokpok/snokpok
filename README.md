@@ -8,10 +8,10 @@
 
 - 📚 Software Engineer Intern @ [Coursera](http://coursera.org) (Summer'22) -- Platform Foundations
 - 🌺 Lead of Engineering @ [HackSC](http://hacksc.com) -- Southern California's flagship hackathon
-- 🤖 Undergraduate Research Assistant @ [ICAROS](http://icaros.usc.edu) lab, where I contribute mostly to [pyribs](http://pyribs.org)
 
 ### Things I'm interested in:
 
+- 🔨 __Startups__: It's not interesting being in a cocoon full of comfort because nothing grows out of it. I love startups and solo creators who build products that has the potential to disrupt the market. I have always put innovation first, and I strive to create an environment where that can be grown and fostered.
 - 📊 __Cloud infrastructure & observability__: I have a great passion for developing scalable microservices and infrastructures on the cloud, where I get a lot of experience doing this at HackSC building hackathon portals, services and all. Observability became an extremely important topic as I continue scaling our tech stack, and I have always been focused on finding great ways to do logging, tracing and APMs ever since. Have experience playing around with observability tools such as Grafana, Prometheus, and New Relic.
 - 🎷 __Music__: mostly lo-fi and jazz but sometimes I might feel like listening to emo rock or something like that instead
 - 👾 __Linux__: I currently boot i3wm on Manjaro. Highly recommend!
